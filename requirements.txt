@@ -1,6 +1,6 @@
-Django<2.2
-django-extensions==2.1.4
+Django<3.2
+django-extensions<3.1
 psycopg2
 graphene<2.2
-graphene_django<2.3
-graphene-django-extras==0.4.3
+graphene_django<2.14
+graphene-django-extras<0.5
